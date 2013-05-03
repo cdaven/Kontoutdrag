@@ -3,6 +3,8 @@ Kontoutdrag.py
 
 Skriptet läser in ett textbaserat kontoutdrag från din bank och skriver ut en klassificerad fil för inläsning till OpenOffice Calc eller Excel.
 
+För tillfället måste alla filer sparas i UTF-8 för att textmatchningen ska fungera.
+
 För tillfället har skriptet stöd för kontoutdrag från Länsförsäkringar Bank.
 
 
